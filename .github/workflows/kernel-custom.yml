@@ -196,6 +196,7 @@ on:
         type: choice
         options:
           - FinaSU
+          - SukiSU
         default: FinaSU
 
       build_channel:
